@@ -2,15 +2,11 @@
 <h2 align="center">I'm an E.C.E. Student at National Technical University of Athens</h2>
 
 <br>
-<br>
-
 
 - 🔭 I’m currently working on my diploma thesis
 - 📫 How to reach me **pa.papadeas@gmail.com**
 
 
-<br>
-<br>
 <br>
 <br>
 
