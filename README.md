@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Panagiotis Papadeas</h1>
-<h2 align="center">An E.C.E. Student at National Technical University of Athens</h2>
+<h2 align="center">I'm an E.C.E. Student at National Technical University of Athens</h2>
+
+
 
 
 - 🔭 I’m currently working on my diploma thesis
 - 📫 How to reach me **pa.papadeas@gmail.com**
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
